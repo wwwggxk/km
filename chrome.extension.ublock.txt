@@ -1,0 +1,11 @@
+! 1. Filter lists(Regions, languages: cn)
+
+! 2. My filters
+
+! 百度结果包括csdn
+baidu.com#?#div.result:-abp-contains(CSDN)
+! 百度置顶结果包括csdn
+
+! Google结果包括csdn
+google.com#?#div.MjjYud:-abp-contains(CSDN)
+google.com.hk#?#div.MjjYud:-abp-contains(CSDN)
