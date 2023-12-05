@@ -1,0 +1,9 @@
+google.com/ncr
+"精确匹配"
+site:include.example.com
+通配*使用
+关键字 filetype:pdf
+关键字 after:2019
+关键字 before:2019
+关键字 -CSDN
+关键字 intitle:关键词
